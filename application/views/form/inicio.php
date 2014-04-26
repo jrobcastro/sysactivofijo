@@ -1,0 +1,1 @@
+<img src=location="<?php echo base_url().'logo/logo.png'; ?>" width="400" height="300">
