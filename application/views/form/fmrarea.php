@@ -10,14 +10,10 @@
         </div><!-- /.row -->
 
         <div class="row">
-          <div class="col-lg-6">
-            
+          <div class="col-lg-6">            
 
-            
-            
-
-             <button type="button" onclick=location="<?php echo base_url().'direccion/hrefa_area'; ?>" class="btn btn-primary">Agregar</button>
-             <button type="button" onclick=location="<?php echo base_url().'direccion/hrefarea'; ?>" class="btn btn-primary">Cancelar</button>
+             <button type="button" onclick=location="<?php echo base_url().'direccion/hrefa_sucur'; ?>" class="btn btn-primary"><i class="glyphicon glyphicon-plus"></i>&nbsp;Agregar</button>
+             
 
           </div>
         </div><!-- /.row -->
